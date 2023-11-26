@@ -8,13 +8,16 @@ class Me:
         self.email = "chickenbilibili@outlook.com"
         self.blog = "chickenyards.com"
         self.kind = "人类"
+        self.love_coding = True
+        self.love_kawaii = True
         
         self.works = [   
             "数据挖掘",
-            "web前后端开发",
-            "机器学习开发",
-            "anything-cool",
-            "anything-creative",
+            "前后端开发",
+            "机器学习研究",
+            "anything cool",
+            "anything creative",
+            "fucking schoolworks",
         ]
 
     def drinking_coffee(self):
