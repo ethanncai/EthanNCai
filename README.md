@@ -21,6 +21,6 @@ class Me:
         print("nice beer!")
 
     def coding(self):
-        for work in workds:
+        for work in self.works:
             print("doing:",work)
 ```
