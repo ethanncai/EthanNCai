@@ -1,6 +1,6 @@
-你好
+你好，Hello
+我目前是一名本科学生
 
+Email: chickenbilibili@outlook.com
 
-我的电子邮箱: chickenbilibili@outlook.com
-
-个人网站： [https://chickenyards.com]([chickenyards.com](https://chickenyards.com))
+Website： [https://chickenyards.com]([chickenyards.com](https://chickenyards.com))
