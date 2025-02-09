@@ -1,5 +1,5 @@
 你好，Hello
-我目前是一名本科学生
+我目前是一名本科学生，当前在做毕设（一款游戏）Demo 预计2025年 4-5月可完成
 
 Email: chickenbilibili@outlook.com
 
