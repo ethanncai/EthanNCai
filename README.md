@@ -1,5 +1,11 @@
-你好，Hello
-我目前是一名本科学生，当前在做毕设（一款游戏）Demo 预计2025年 4-5月可完成
+Currently:
+
+* An undergraduate student at Jimei University,
+* An associate algorithm engineering intern. at Anker Innovations
+
+
+Going to:
+* Pursue a master's degree at The Hong Kong Polytechnic University in Spt., 2025.
 
 Email: chickenbilibili@outlook.com
 
