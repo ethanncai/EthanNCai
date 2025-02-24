@@ -9,4 +9,5 @@ Going to:
 
 Email: junzhi.cai@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNCai&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNCai)
