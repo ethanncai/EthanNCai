@@ -1,7 +1,7 @@
 Currently:
 
-* An undergraduate student at Jimei University,
-* An associate algorithm engineering intern. at Anker Innovations
+* An undergraduate student at Jimei University, Since Spt., 2021.
+* An associate algorithm engineering intern. at Anker Innovations, Since Dec., 2024
 
 
 Going to:
