@@ -1,9 +1,10 @@
+Used to be:
+
+* Undergraduate student in Jimei University.
+* Algorithm intern. at SDIC Intelligence.
+
 Currently:
-
-* An undergraduate student at Jimei University, Since Spt., 2021.
-* An associate algorithm engineering intern. at Anker Innovations, Since Dec., 2024
-
-
+* Associate algorithm intern. at Anker Innovations, Since Dec., 2024
 Going to:
 * Pursue a master's degree at The Hong Kong Polytechnic University in Spt., 2025.
 
