@@ -3,4 +3,7 @@ Currently:
 * Master’s student at The Hong Kong Polytechnic University, Since Aug., 2025
 
 Email: junzhi.cai@connect.polyu.hk
-![](https://raw.githubusercontent.com/ethanncai/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![](https://raw.githubusercontent.com/ethanncai/stat/master/generated/languages.svg)
+
